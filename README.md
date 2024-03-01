@@ -4,6 +4,10 @@
 - 🌱 I’m currently learning : C# and C language 
 - 📫 How to reach me: xiaqiang.qiu@iisviolamarchesini.edu.it
 
+- ### ⭐️ Github 
+
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Qiu-Xiaqiang&count_private=true&show_icons=true"/>
+
 🥇What can I do:![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
 ### 🛳 &nbsp;Your ticket ID for this visit
 <img src="https://profile-counter.glitch.me/Volcano-Yang/count.svg" />
