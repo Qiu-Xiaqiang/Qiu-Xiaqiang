@@ -4,7 +4,12 @@
 - 🌱 I’m currently learning : C# and C language 
 - 📫 How to reach me: xiaqiang.qiu@iisviolamarchesini.edu.it
 
-<img align="left" alt="GIF" src="./images/白熊.gif" width="800" height="100%" />
+<img align="left" alt="GIF" src="./白熊.gif" width="1300" height="90%" />
+
+
+
+
+
 - ### ⭐️ Github stats
 
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Qiu-Xiaqiang&count_private=true&show_icons=true"/>
