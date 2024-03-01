@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning : C# and C language 
 - 📫 How to reach me: xiaqiang.qiu@iisviolamarchesini.edu.it
 
-🥇What can I do:
-![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
+🥇What can I do:![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
 ### 🛳 &nbsp;Your ticket ID for this visit
 <img src="https://profile-counter.glitch.me/Volcano-Yang/count.svg" />
