@@ -7,5 +7,5 @@
 - 🌱 I’m currently learning : C# and C language 
 - 📫 How to reach me: xiaqiang.qiu@iisviolamarchesini.edu.it
 
-/github/stars/:user/:repo?style-social
+
 -->
