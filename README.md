@@ -8,7 +8,7 @@
 **Qiu-Xiaqiang/Qiu-Xiaqiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### GitHub 
-![Qiu-Xiaqiang's github stats](https://github-readme-stats.vercel.app/api?username=DingAlessandro&show_icons=true&theme=swift)
+![Qiu-Xiaqiang's github stats](https://github-readme-stats.vercel.app/api?username=Qiu-Xiaqiang&show_icons=true&theme=swift)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DingAlessandro&langs_count=10)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DingAlessandro&layout=compact&langs_count=10)
