@@ -14,7 +14,9 @@
 
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Qiu-Xiaqiang&count_private=true&show_icons=true"/>
  <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qiu-Xiaqiang&layout=compact&theme=buefy&hide_border=true" /> </a> | 
-| ------------- | ------------- |
+
+
+ 
 
 
 🥇What can I do:![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
