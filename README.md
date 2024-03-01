@@ -5,7 +5,7 @@
 - 📫 How to reach me: xiaqiang.qiu@iisviolamarchesini.edu.it
 
 <img align="left" alt="GIF" src="./白熊.gif" width="1300" height="90%" />
-
+<img align="left" alt="GIF" src="./China.gif" width="300" height="100%" />
 
 
 
