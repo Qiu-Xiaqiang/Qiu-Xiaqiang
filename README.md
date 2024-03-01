@@ -4,8 +4,5 @@
 - 🌱 I’m currently learning : C# and C language 
 - 📫 How to reach me: xiaqiang.qiu@iisviolamarchesini.edu.it
 
-<!--
-**Qiu-Xiaqiang/Qiu-Xiaqiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
+### 🛳 &nbsp;Your ticket ID for this visit
+<img src="https://profile-counter.glitch.me/Volcano-Yang/count.svg" />
