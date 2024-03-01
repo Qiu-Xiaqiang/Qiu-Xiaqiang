@@ -12,3 +12,7 @@
 ### 🛳 &nbsp;Your ticket ID for this visit
 <img src="https://profile-counter.glitch.me/Qiu-Xiaqiang/count.svg" />
 
+
+| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangyang0210&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Qiu-Xiaqiang's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qiu-Xiaqiang&layout=compact&theme=buefy&hide_border=true" /> </a> | 
+| ------------- | ------------- |
+
